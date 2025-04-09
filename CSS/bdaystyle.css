@@ -1,0 +1,46 @@
+/*Global Styles */
+/*html {
+    background: #2890EB;
+    }*/
+
+    html {
+      background-image: url("../images/v789-kul-14.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      /*the below pushes the text & images down inside the invite borders */
+      padding-top: 150px;
+      display: grid;
+      }
+
+    h1, h2, h3 {
+        text-align: center;
+        color: black;
+    }
+
+    ul {
+        text-align: center;
+        list-style-position: inside;
+        font-size: 20px;
+        color: black;
+    }
+
+    img {
+        align-items: center;
+    }
+
+   h1, h2 {
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  /*Images*/
+  .cake3 {
+    width: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+  }
